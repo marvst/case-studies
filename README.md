@@ -2,8 +2,8 @@
 
 Here, you’ll find a collection of case studies highlighting my real-world experiences in designing and developing technical solutions. 
 
-While the titles reflect achievements or outcomes, they represent the results of teamwork and cross-functional collaboration—not individual effort. I’ve ensured that my specific role in each project is clearly outlined.
+While the titles may suggest that I handled everything on my own, the reality is that these accomplishments were the result of teamwork and cross-functional collaboration, rather than individual effort. I’ve made sure to clearly define my specific contributions in each project.
 
-## The one where I
+## The one where
 
-⏺️ [Decoupled a legacy payment system from a monolith to a multi-gateway service](https://github.com/marvst/payment-gateway.md)
+⏺️ [I decoupled a legacy payment system to a multi-gateway service](https://github.com/marvst/payment-gateway.md)
