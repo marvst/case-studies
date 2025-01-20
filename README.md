@@ -6,4 +6,4 @@ While the titles may suggest that I handled everything on my own, the reality is
 
 ## The one where
 
-⏺️ [I decoupled a legacy payment system to a multi-gateway service](https://github.com/marvst/payment-gateway.md)
+⏺️ [I decoupled a legacy payment system to a multi-gateway service](https://github.com/marvst/case-studies/blob/main/payment-gateway.md)
