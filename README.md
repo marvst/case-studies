@@ -1,1 +1,1 @@
-# case-studies
+# Case studies
